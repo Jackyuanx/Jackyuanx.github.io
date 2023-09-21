@@ -33,7 +33,7 @@ author_profile: true
 <!-- <p>&nbsp;</p> -->
 <h2>Research project</h2>
 
-<I am working on the following projects:
+I am working on the following projects:
 
 Temporal meets Spacial 
 <!-- * Automatic Training Data Search and Model Evaluation by Measuring Domain Gap -->
