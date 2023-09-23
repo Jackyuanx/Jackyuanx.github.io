@@ -20,5 +20,9 @@ author_profile: true
   * Supervisor: Dr. Lei Wang (ANU)
   * <font color="red">Received <strong>ANU School of Computing Summer Research Internship</strong> </font>
 
+<h2>Awards</h2>
+* <strong>ANU School of Computing Summer Research Internship</strong>
+* <strong>Australian Digital Cadetship Merit Pool</strong>
+
 <p>&nbsp;</p>
 <font size="3" color="blue">I would like to thank Dr. Lei Wang and Ms. Tracy Goodwin for inspiring me everyday.</font>
