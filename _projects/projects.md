@@ -35,7 +35,7 @@ author_profile: true
 
 I am working on the following projects:
 
-Temporal meets Spacial 
+Temporal meets Spatial 
 <!-- * Automatic Training Data Search and Model Evaluation by Measuring Domain Gap -->
 
 <!-- * Human action recognition in videos -->
@@ -44,6 +44,6 @@ Temporal meets Spacial
 <!--   * Human-related anomaly detection in surveillance videos -->
 <!--   * Research student: [Supasun Khumpraphan](https://micsupasun.github.io/) -->
 
-- <font color="blue">I am one of the 2023-2024 awarded ANU domestic student for ANU School of Computing Summer Research Scholarship: </font>
+- <font color="blue">I have been awarded the ANU School of Computing Summer Research Scholarship 2023 - 2024.</font>
   - <font color="red"> Thanks to the ANU School of Computing for providing research funding.</font>
 
