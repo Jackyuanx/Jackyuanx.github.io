@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mr. Xiuyuan (Jack) Yuan"
 title_separator          : "-"
 name                     : &name "Xiuyuan (Jack) Yuan"
-description              : &description "Undergraduate Research Student at the Australian National University"
+description              : &description "Researcher at ANU, Digital Cadet at Attorney-General's Department"
 url                      : https://Jackyuanx.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Jackyuanx.github.io"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : 
+  linkedin         : "https://www.linkedin.com/in/xiuyuan-yuan-676b87292/"
   orcid            : 
   pinterest        :
   soundcloud       :
