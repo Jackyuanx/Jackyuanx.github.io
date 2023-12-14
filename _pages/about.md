@@ -22,13 +22,13 @@ I am interested in participating in research and building/fitting models for tas
 * Video image Processing
 * Deep learning
 * Data augmentation
-* Autonomous driving architecture
+* Autonomous driving
 * Object detection
 
 <h2>Awards</h2>
-* <strong>ANU School of Computing Summer Research Internship</strong>
-* <strong>Australian Digital Cadetship</strong>
+* <strong>Summer Research Internship Program</strong> at ANU School of Computing
+* <strong>Australian Digital Cadetship</strong> at Attorney-General's Department
 
 <h2>Education</h2>
 
-* **Bachelor of Advanced Computing (Honours)** - Bachelor's, Computer Science, The Australian National University (ANU) *Feb 2023 - present*
+* **Bachelor of Advanced Computing (Honours)** - Bachelor's, Computer Science, The Australian National University (ANU), *Feb 2023 - <font color="blue">present</font>*
