@@ -27,7 +27,7 @@ I am interested in participating in research and building/fitting models for tas
 
 <h2>Awards</h2>
 * <strong>ANU School of Computing Summer Research Internship</strong>
-* <strong>Australian Digital Cadetship Merit Pool</strong>
+* <strong>Australian Digital Cadetship</strong>
 
 <h2>Education</h2>
 
