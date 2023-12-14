@@ -8,22 +8,16 @@ redirect_from:
   - /about.html
 ---
 
+Mr. Xiuyuan (Jack) Yuan is a second-year undergraduate research student at the School of Computing, ANU College of Engineering, Computing, and Cybernetics.
 
-I am Xiuyuan (Jack) Yuan, and I am a first year undergraduate research student with the School of Computing, ANU College of Engineering, Computing and Cybernetics under the supervision of [Dr. Lei Wang](https://leiwangr.github.io/) (ANU).
+Currently, he is a summer scholar engaged in researching video dynamics distillation, supported by the National Computing Infrastructure (NCI). As a participant in the Summer Research Internship Program, he has been awarded with the ANU Summer Research Scholarship. Under the supervision of [Dr. Lei Wang](https://leiwangr.github.io/) (ANU & Data61/CSIRO), he actively contributes as an assistant researcher, delving into topics such as multi-modal foundation models, robust anomaly detection in human-centric videos, and scalable models using video dynamics distillation.
 
-I am very enthusiastic about AI and Machine Learning research projects. I believe that these computer science areas will be the centre point of next-generation's technologies, as it is applicable in every single discipline, due to flexibility and adaptability of modern machine learning methods, the applications are endless.
+He is also the lead researcher in developing light-weight video data formats, capable of efficiently distilling motions at various granular levels. His research has the potential to significantly impact safety and security, future cities, IoT, agribusiness, and defense, with applications in health, wellbeing, safety, and innovative industries.
 
-I am interested in participating in research and building/fitting models for tasks, so feel free to reach out to me via my email, as I am available for activities such as kaggle competitions.
+His work centers around exploring advanced technologies, to support all areas of science and society, ultimately providing national benefits. Additionally, Xiuyuan is a recipient of the Australian Government Digital Cadetship at the Attorney-General's Department.
 
-<p>&nbsp;</p>
+His research interests encompass action recognition, video image processing, and deep learning.
 
-<h2>Research interests</h2>
-* Action recognition
-* Video image Processing
-* Deep learning
-* Data augmentation
-* Autonomous driving
-* Object detection
 
 <h2>Awards</h2>
 * <strong>Summer Research Internship Program</strong> at ANU School of Computing
