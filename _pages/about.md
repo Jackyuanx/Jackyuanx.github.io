@@ -25,6 +25,10 @@ I am interested in participating in research and building/fitting models for tas
 * Autonomous driving architecture
 * Object detection
 
+<h2>Awards</h2>
+* <strong>ANU School of Computing Summer Research Internship</strong>
+* <strong>Australian Digital Cadetship Merit Pool</strong>
+
 <h2>Education</h2>
 
 * **Bachelor of Advanced Computing (Honours)** - Bachelor's, Computer Science, The Australian National University (ANU) *Feb 2023 - present*
