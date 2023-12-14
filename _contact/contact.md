@@ -5,13 +5,13 @@ permalink: /contact/
 author_profile: true
 ---
 
-My contact information is below.
+To reach me, please contact me via the information below:
 
 <div>
 <table style="white-space:nowrap; width:100%; border: none;">
   <tr>
     <th style="width:1px; white-space:nowrap; border: none;">Email address</th>
-    <td style="white-space:nowrap; border: none;">u7678992@anu.edu.au</td>
+    <td style="white-space:nowrap; border: none;">xiuyuan.yuan@anu.edu.au</td>
   </tr>
 
 </table>
