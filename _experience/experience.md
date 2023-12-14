@@ -22,6 +22,12 @@ author_profile: true
   * Research project: Video Dynamics Distillation
   * <font color="red">Received <strong>ANU School of Computing Summer Research Internship</strong> </font>
 
+* *01/10/2023 - 31/12/2023*: **Assistant Researcher**
+  * School of Computing, ANU College of Engineering, Computing and Cybernetics
+  * Supervisor: Dr. Lei Wang (ANU) and Assoc. Prof. Liang Zheng (ANU)
+  * Research project: Towards building general-purpose multimodal foundation models
+  * HPC grant: <font color="red"><strong>NCI Adaptater Scheme Q4 2023</strong></font>
+
 * *01/09/2023 - <font color="blue">present</font>*: **Research Student** 
   * School of Computing, ANU College of Engineering, Computing and Cybernetics
   * Supervisor: Dr. Lei Wang (ANU)
