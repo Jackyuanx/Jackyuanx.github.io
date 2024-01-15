@@ -35,7 +35,7 @@ author_profile: true
 
 These are my completed projects:
 
-* [Taylor Videos](/_projects/taylor/taylor.html)
+Taylor Videos
 
 I am working on the following projects:
 
