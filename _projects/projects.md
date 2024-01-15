@@ -33,6 +33,10 @@ author_profile: true
 <!-- <p>&nbsp;</p> -->
 <h2>Research project</h2>
 
+These are my completed projects:
+
+* [Taylor Videos](/taylor/projects)
+
 I am working on the following projects:
 
 * National Computational Merit Allocation Scheme 2024 (NCMAS 2024)
