@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Mr. Xiuyuan (Jack) Yuan"
-  avatar           : "jy.jpg" # "leiwang.jpg" # "lei-wang.jpg"
+  avatar           : "IMG_1331.jpg" # "leiwang.jpg" # "lei-wang.jpg"
   bio              : "Researcher at ANU, Digital Cadet at Attorney-General's Department"
   location         : # "Room N218, CSIT Building" # "Canberra ACT 2601"
   employer         : "ANU" # "ANU" # "ANU, Canberra ACT 2601"  
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=kx_soJ4AAAAJ&hl=en&authuser=1&oi=sra"
   email            : "xiuyuan.yuan@anu.edu.au"
   researchgate     : 
   uri              :
