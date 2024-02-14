@@ -10,7 +10,9 @@ redirect_from:
 
 Mr. Xiuyuan (Jack) Yuan is a second-year undergraduate research student at the School of Computing, ANU College of Engineering, Computing, and Cybernetics.
 
-Currently, he is a summer scholar engaged in researching video dynamics distillation, supported by the National Computing Infrastructure (NCI). As a participant in the Summer Research Internship Program, he has been awarded with the ANU Summer Research Scholarship. Under the supervision of [Dr. Lei Wang](https://leiwangr.github.io/) (ANU & Data61/CSIRO), he actively contributes as an assistant researcher, delving into topics such as multi-modal foundation models, robust anomaly detection in human-centric videos, and scalable models using video dynamics distillation.
+Currently, he is engaged in researching topics surrounding video understanding.
+
+Previously, he was a summer scholar engaged in researching video dynamics distillation, supported by the National Computing Infrastructure (NCI). As a participant in the Summer Research Internship Program, he has been awarded with the ANU Summer Research Scholarship. Under the supervision of [Dr. Lei Wang](https://leiwangr.github.io/) (ANU & Data61/CSIRO), he actively contributes as an assistant researcher, delving into topics such as multi-modal foundation models, robust anomaly detection in human-centric videos, and scalable models using video dynamics distillation.
 
 He is also the lead researcher in developing light-weight video data formats, capable of efficiently distilling motions at various granular levels. His research has the potential to significantly impact safety and security, future cities, IoT, agribusiness, and defense, with applications in health, wellbeing, safety, and innovative industries.
 
@@ -25,4 +27,4 @@ His research interests encompass action recognition, video image processing, and
 
 <h2>Education</h2>
 
-* **Bachelor of Advanced Computing (Honours)** - Bachelor's, Computer Science, The Australian National University (ANU), *Feb 2023 - <font color="blue">present</font>*
+* **Bachelor of Advanced Computing (Research & Development) (Honours)** - Bachelor's, Computer Science, The Australian National University (ANU), *Feb 2023 - <font color="blue">present</font>*
